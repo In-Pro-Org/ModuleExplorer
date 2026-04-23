@@ -1,0 +1,17 @@
+name: ModuleExplorer
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/84a92ae5-c921-4dbd-b421-3afdd1b23250
+description: An interactive TUI for exploring installed modules.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/In-Pro-Org/ModuleExplorer
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
